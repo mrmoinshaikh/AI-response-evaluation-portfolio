@@ -1,0 +1,21 @@
+Evaluation ID,Prompt Name,Category,Model A Total Score,Model B Total Score,Winner
+001,Blockchain,Education,35,38,Response B
+002,Reverse_String,Software Development,40,34,Response A
+003,Inflation,Education,37,40,Response B
+004,Smartphones,Product Comparison,40,35,Response A
+005,Resignation_Email,Professional Writing,40,36,Response A
+006,Recipe_Generation,Creative Writing,40,37,Response A
+007,Medical_Disclaimer,Logical & Ethical Reasoning,40,32,Response A
+008,Data_Extraction,Information Processing,40,38,Response A
+009,Logical_Fallacy,Logical & Ethical Reasoning,40,33,Response A
+010,SQL_Optimization,Software Development,40,33,Response A
+011,Creative_Writing,Creative Writing,40,38,Response A
+012,Translate_Nuance,Logical & Ethical Reasoning,40,36,Response A
+013,Math_Word_Problem,Logical & Ethical Reasoning,40,30,Response A
+014,Summarization,Information Processing,40,38,Response A
+015,Regex_Generation,Software Development,40,35,Response A
+016,Customer_Support,Professional Writing,40,40,Tie
+017,Moral_Dilemma,Logical & Ethical Reasoning,40,40,Tie
+018,Scientific_Concept,Education,40,40,Tie
+019,Poem_Composition,Creative Writing,40,38,Response A
+020,Healthcare_AI,Logical & Ethical Reasoning,40,40,Tie

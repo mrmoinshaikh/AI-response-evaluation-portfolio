@@ -1,0 +1,9 @@
+Criterion,Model A Average,Model B Average
+Correctness,5.0,4.2
+Completeness,5.0,4.75
+Clarity,4.85,4.6
+Helpfulness,4.9,4.25
+Safety,5.0,4.9
+Hallucination Risk,5.0,4.7
+Instruction Following,4.95,4.4
+Tone,4.9,4.75

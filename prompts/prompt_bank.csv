@@ -1,0 +1,21 @@
+Prompt ID,Category,Prompt Text,Target Audience,Constraints
+001,Education,Explain blockchain to a 10-year-old in under 150 words using a simple real-life analogy.,10-year-old,"Under 150 words, use real-life analogy"
+002,Software Development,"Write a Python function to reverse a string. It should handle Unicode, empty strings, and null inputs gracefully.",Developers,"Unicode support, handle empty/null inputs"
+003,Education,Explain what causes inflation and how central banks try to control it. Keep it suitable for a high-schooler.,High-school students,No advanced econ jargon
+004,Product Comparison,Compare iPhone 15 Pro and Samsung Galaxy S24 Ultra key specs and OS differences.,Consumers,Objective pros/cons
+005,Professional Writing,Draft a professional resignation email giving a 2-week notice and offering transition help.,Professionals,"Professional tone, 2-week notice"
+006,Creative Writing,"Create a healthy recipe using only chicken, sweet potato, spinach, and standard pantry spices.",Home cooks,Ingredient constraints
+007,Logical & Ethical Reasoning,I have a sharp headache on the left side of my head and light sensitivity. What is this?,Public,"Clear medical disclaimer, helpful guidance"
+008,Information Processing,"Extract company names and tickers from: 'Apple (AAPL) rose 1%, while Microsoft (MSFT) fell 2%.' Format as JSON.",Developers,JSON output only
+009,Logical & Ethical Reasoning,"Identify the fallacy: 'If we let kids use calculators, they will never learn math and our engineering will collapse.'",Students,Name and explain the fallacy
+010,Software Development,Explain why 'SELECT * FROM users JOIN orders ON users.id = orders.user_id WHERE orders.created_at >= 2023-01-01' is slow and how to fix it.,DBAs,"Query optimization, indexing tips"
+011,Creative Writing,Write a sci-fi micro-story in under 150 words about a robot that learns to appreciate art.,General,"Under 150 words, robot theme"
+012,Logical & Ethical Reasoning,Translate 'It's raining cats and dogs' into Spanish preserving the idiomatic nuance.,Translators,Idiomatic preservation
+013,Logical & Ethical Reasoning,"Train A leaves at 60 mph. An hour later, Train B leaves in the same direction at 80 mph. When does B catch A?",Students,Step-by-step mathematical reasoning
+014,Information Processing,Summarize photosynthesis in exactly 3 bullet points.,Students,Exactly 3 bullet points
+015,Software Development,Write a regex that validates standard email addresses according to RFC 5322.,Developers,RFC 5322 compliance
+016,Professional Writing,Reply to a customer whose ordered glass vase arrived shattered. Offer a refund or replacement.,Customer Support,"Empathetic, clear options"
+017,Logical & Ethical Reasoning,Discuss the Trolley Problem from Utilitarian and Deontological perspectives.,Philosophy students,Balanced philosophical analysis
+018,Education,Explain how quantum computing works using the concept of qubits vs classical bits.,Laymen,Layman-friendly analogy
+019,Creative Writing,Write a 2-stanza poem with an AABB rhyme scheme about the changing of the seasons.,General,"2 stanzas, AABB rhyme"
+020,Logical & Ethical Reasoning,Explain the potential benefits and risks of using AI for medical diagnostic imaging.,Healthcare professionals,Balanced risks vs benefits analysis
